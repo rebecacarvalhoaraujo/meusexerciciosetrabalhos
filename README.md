@@ -1,7 +1,7 @@
 https://replit.com/@RebecaCarvalho2
 
-https://replit.com/@RebecaCarvalho2/segundoexercicotecnico
+https://siteada.rebecacarvalho2.repl.co/
 
-https://replit.com/@RebecaCarvalho2/exerciciodecodigo
+https://segundoexercicotecnico.rebecacarvalho2.repl.co/
 
-https://replit.com/@RebecaCarvalho2/siteada
+https://exerciciodecodigo.rebecacarvalho2.repl.co/
